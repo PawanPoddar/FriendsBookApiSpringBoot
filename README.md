@@ -1,4 +1,11 @@
 # FriendsBookApiSpringBoot
+#Requirment:
+##Eclipse,STS
+##Spring Boot Framwork
+##MYSQL database
+
+#In this project Binary Search Tree Algorith is used to finding to the Kth position friends/users;
+
 # A user should be able to create his profile. 
 localhost:8081/user/register
 {
